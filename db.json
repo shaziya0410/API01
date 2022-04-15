@@ -1,0 +1,31 @@
+{
+  "User01": [
+  {
+    "name": "Leanne Graham",
+    "username": "Bret"
+  },
+  {
+    "name": "Ervin Howell",
+    "username": "Antonette"
+  },
+  {
+    "name": "Clementine Bauch",
+    "username": "Samantha"
+  },
+  {
+    "name": "Patricia Lebsack",
+    "username": "Karianne"
+  },
+  {
+    "name": "Chelsey Dietrich",
+    "username": "Kamren"
+  }
+],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
